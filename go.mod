@@ -1,1 +1,1 @@
-module github.com/dimastephen/util-lib
+module github.com/dimastephen/utils
