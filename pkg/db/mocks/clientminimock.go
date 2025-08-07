@@ -9,7 +9,7 @@ import (
 	mm_atomic "sync/atomic"
 	mm_time "time"
 
-	mm_db "github.com/dimastephen/chatServer/internal/client/db"
+	mm_db "github.com/dimastephen/utils/pkg/db"
 	"github.com/gojuno/minimock/v3"
 )
 
